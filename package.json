@@ -1,0 +1,21 @@
+{
+  "name": "tom-s-theme",
+  "displayName": "Tom's theme",
+  "description": "A theme for me",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tom's theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tom's theme-color-theme.json"
+      }
+    ]
+  }
+}
