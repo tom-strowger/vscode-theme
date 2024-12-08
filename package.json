@@ -2,7 +2,7 @@
   "name": "tom-s-theme",
   "displayName": "Tom's theme",
   "description": "A theme for me",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -17,5 +17,6 @@
         "path": "./themes/Tom's theme-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": "https://github.com/tom-strowger/vscode-theme"
 }
