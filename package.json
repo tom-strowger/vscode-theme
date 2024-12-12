@@ -2,7 +2,7 @@
   "name": "tom-s-theme",
   "displayName": "Tom's theme",
   "description": "A theme for me",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.95.0"
   },
